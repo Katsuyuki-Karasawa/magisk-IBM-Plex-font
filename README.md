@@ -1,7 +1,6 @@
 #### IBMPlexSansJP Font
 
 IBMPlexSansJP font patch for Japanese users.(fork)
-Tested on Google Pixel 6 Pro (Android 12).
 
 #### NOTICE
 
@@ -9,23 +8,8 @@ Tested on Google Pixel 6 Pro (Android 12).
 
 ## Change log
 
-#### v17
-* Add a way to disable Extrabold and Thin weights
-
-#### v16
-* Support ColorOS 12.1
-
-#### v15
-* Support MIUI 13
-
-#### v14
-* Replace vivo font
-
-#### v13
-* Force replace MiSansVF
-
-#### v12
-* Initial Release
+#### v1
+initial build
 
 ## License
 
