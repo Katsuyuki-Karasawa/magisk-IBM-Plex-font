@@ -1,6 +1,6 @@
-#### McMejiro Font
+#### IBMPlexSansJP Font
 
-McMejiro font patch for Japanese users.
+IBMPlexSansJP font patch for Japanese users.(fork)
 Tested on Google Pixel 6 Pro (Android 12).
 
 #### NOTICE

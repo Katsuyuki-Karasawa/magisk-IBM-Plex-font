@@ -1,8 +1,7 @@
-id=font-mcmejiro
-name=McMejiro Font
+id=font-IBMPlexSansJP
+name=IBMPlexSansJP Font
 version=v17
 versionCode=17
 author=AndroPlus
-description=McMejiro font patch for Japanese users.
-donate=https://github.com/sponsors/AndroPlus-org?frequency=one-time
-updateJson=https://raw.githubusercontent.com/AndroPlus-org/magisk-module-mcmejiro-font/master/update.json
+description=IBMPlexSansJP font patch for Japanese users.
+updateJson=https://raw.githubusercontent.com/Katsuyuki-Karasawa/magisk-module-IBMPlexSansJP-font/master/update.json

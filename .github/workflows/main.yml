@@ -17,5 +17,5 @@ jobs:
     - name: Upload Release
       uses: ncipollo/release-action@v1
       with:
-        artifacts: "magisk-module-mcmejiro-font.zip"
+        artifacts: "magisk-module-IBMPlexSansJP-font.zip"
         token: ${{ secrets.GITHUB_TOKEN }}
