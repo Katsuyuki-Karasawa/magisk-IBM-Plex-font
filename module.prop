@@ -1,8 +1,7 @@
-id=font-mcmejiro
-name=McMejiro Font
+id=font-ibm-plex-sans-jp
+name=IBM Plex Sans JP Font
 version=v19
 versionCode=19
-author=AndroPlus
-description=McMejiro font patch for Japanese users.
-donate=https://github.com/sponsors/AndroPlus-org?frequency=one-time
-updateJson=https://raw.githubusercontent.com/AndroPlus-org/magisk-module-mcmejiro-font/master/update.json
+author=Katsuyuki-Karasawa
+description=IBM Plex Sans JP font patch for Japanese users.
+updateJson=https://raw.githubusercontent.com/Katsuyuki-Karasawa/magisk-module-IBMPlexSansJP-font/master/update.json

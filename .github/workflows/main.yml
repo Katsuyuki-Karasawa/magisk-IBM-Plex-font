@@ -12,10 +12,10 @@ jobs:
       uses: thedoctor0/zip-release@master
       with:
         type: 'zip'
-        filename: 'magisk-module-mcmejiro-font.zip'
+        filename: 'magisk-module-IBMPlexSansJP-font.zip'
         exclusions: '*.git* /*node_modules/* .editorconfig'
     - name: Upload Release
       uses: ncipollo/release-action@v1
       with:
-        artifacts: "magisk-module-mcmejiro-font.zip"
+        artifacts: "magisk-module-IBMPlexSansJP-font.zip"
         token: ${{ secrets.GITHUB_TOKEN }}
